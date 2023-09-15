@@ -1,5 +1,4 @@
-from django.http import HttpResponse, HttpResponseRedirect
-
+from django.http import HttpResponse, HttpResponseRedirect,JsonResponse
 from django.template import loader
 from django.http import Http404
 from django.shortcuts import get_object_or_404, render
@@ -51,3 +50,12 @@ def vote(request, question_id):
         # with POST data. This prevents data from being posted twice if a
         # user hits the Back button.
         return HttpResponseRedirect(reverse("polls:results", args=(question.id,)))
+    
+def fibonacci_series(request, n):
+    n = int(n)
+    fib_series = []
+    a, b = 0, 1
+    while len(fib_series) < n:
+        fib_series.append(a)
+        a, b = b, a + b
+    return JsonResponse({'fibonacci_series': fib_series})
