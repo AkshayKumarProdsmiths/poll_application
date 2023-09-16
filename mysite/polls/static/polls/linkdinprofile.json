@@ -1,10 +1,10 @@
 {
-    "personal_information": {
+    "general_information": {
                             "name": "Akshay",
-                            "Student at": "Sant Longowal Institute of Engineering & Technology",
+                            "student_at": "Sant Longowal Institute of Engineering & Technology",
                             "connections": "285",
-                            "Profile language": "English",
-                            "Public profile & URL": "www.linkedin.com/in/akshaykumar8544749906"
+                            "profile_language": "English",
+                            "public_profile_URL": "www.linkedin.com/in/akshaykumar8544749906"
                             },
     "resources": {
                  "creator_mode": "Off",
@@ -12,55 +12,46 @@
                  "my_network": "See and manage your connections and interests.See and manage your connections and interests."
                  },
     "education": [
-                  {
-                  "Bachelors": {
-                               "College Name": "Sant Longowal Institute of Engineering & Technology",
-                               "Branch": "Electronics and Communication Engineering",
-                               "Time Period": "2019-2022",
+                   {
+                               "qualification":"B.tec",
+                               "college_name": "Sant Longowal Institute of Engineering & Technology",
+                               "branch": "Electronics and Communication Engineering",
+                               "time_period": "2019-2022",
                                "address": {
                                          "city": "Longowal",
                                          "state": "Punjab",
                                          "country": "India"
                                           }
-                               }
-                 },
-                 {
-                  "Diploma": {
-                              "name": "Govt. Polytechnic Kangra",
-                              "Branch": "Electronics and Communication Engineering",
-                              "Time Period": "2016-2018",
+                   },
+                   {
+                              "qualification":"Engineering Diploma",
+                              "college_name": "Govt. Polytechnic Kangra",
+                              "branch": "Electronics and Communication Engineering",
+                              "time_period": "2016-2018",
                               "address": {
                                          "city": "Kangra",
                                          "state": "Himachal Pradesh",
                                          "country": "India"
                                          }
-                             }
-                  }
+                    }                          
                  ],
-    "licenses_&_certifications": [
-                                 {
-                                  "certificate1": {
-                                                 "Name": "Ready, Set, Agile! Virtual Experience Program",
-                                                 "Organisation": "Cognizant"
-                                                  }
+    "licenses_certifications": [
+                                  {
+                                                 "name": "Ready, Set, Agile! Virtual Experience Program",
+                                                 "organisation": "Cognizant"
                                  },
                                  {
-                                  "certificate2": {
-                                                 "Name": "Recent Trends of RF Technology",
-                                                 "Organisation": "Sant Longowal Institute of Engineering and Technology"
-                                                  }
+                                                 "name": "Recent Trends of RF Technology",
+                                                 "organisation": "Sant Longowal Institute of Engineering and Technology"
                                  },
                                  {
-                                  "certificate3": {
-                                                 "Name": "Power Bi Masters",
-                                                 "Organisation": "Physics Wala Skills"
-                                                  }
+                                                 "name": "Power Bi Masters",
+                                                 "organisation": "Physics Wala Skills"
                                  },
                                  {
-                                  "certificate4": {
-                                                 "Name": "Certificate of Participation",
-                                                 "Organisation": "IIT Bombay"
-                                                  }
+                                                 "name": "Certificate of Participation",
+                                                 "organisation": "IIT Bombay"
+                                                  
                                  }
                                  ],
     "Skills": [
@@ -84,7 +75,7 @@
                            "college": " Welding Engineer",
                            "connections": ""
                            }
-    ],
+                          ],
     "people_you_may_viewed": [
                               {
                               "name": "Sarika -Sarika",
@@ -97,54 +88,20 @@
                               "mutual_connections": ""
                               }
                               ],
-    "interests": [
-                 { "top_voices":[{
+    "interests": [ 
+                  {
                                  "name": "Guru Gopal Das",
-                                 "description": " LinkedIn Top Voice, International Life Coach, Wellness Advisor, Author & Motivational Strategist",
                                  "followers": "426,482"
-                                  }
-                                ]
-                 },
-                 { "Companies":[{
+                  },
+                  {
                                 "name":"Oracle",
                                 "followers": "9,373,954"
-                               },
-                               {
+                  },
+                  {
                                  "name":"Accenture",
                                  "followers":"11,401,088"
-                               }
-                               ]
-                 },
-                 { "groups":[{
-                               "name":"",
-                               "followers":""
-                            },
-                            {
-                               "name":"",
-                               "followers":""
-                            }
-                            ]
-                 },
-                 { "newsletters":[{
-                                   "name":"",
-                                   "followers":""
-                                  },
-                                  {
-                                  "name":"",
-                                  "followers":""
-                                  }
-                                  ]
-                 },
-                 { "schools":[{
-                              "name":"",
-                              "followers":""
-                             },
-                            {
-                              "name":"",
-                              "followers":""
-                             }
-                            ]
-                }
-                ]
+                  }
+                 ]
+               
  }
  
